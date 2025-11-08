@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GatewayJ&show_icons=true&hide_title=true&hide_rank=true&hide=issues&count_private=false&disable_animations=true"/>
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GatewayJ&layout=compact&langs_count=6&hide=javascript,html,css"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GatewayJ&show_icons=true&hide_title=true&hide_rank=true&hide=issues"/>
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GatewayJ&layout=compact&langs_count=4&hide=javascript,html,css,php"/>
 </p>
 <!--
 **GatewayJ/GatewayJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
